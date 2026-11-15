@@ -1,0 +1,35 @@
+{
+    "Lua.diagnostics.globals": [
+        "drawitems",
+        "update",
+        "emu",
+        "drawrect",
+        "gui",
+        "drawline",
+        "drawtext",
+        "addeventcallback",
+        "addmemcallback",
+        "setregister",
+        "getregister",
+        "evtcallback",
+        "memcallback",
+        "w16",
+        "w8",
+        "memory",
+        "curremu",
+        "mem",
+        "testbit",
+        "callbackexec",
+        "callbackframe",
+        "u8",
+        "u16",
+        "getheight",
+        "event",
+        "bit",
+        "Type"
+    ],
+    "Lua.diagnostics.disable": [
+        "redundant-parameter",
+        "lowercase-global"
+    ]
+}
